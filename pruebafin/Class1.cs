@@ -8,5 +8,6 @@ namespace pruebafin
 {
     public class Class1
     {
+
     }
 }
